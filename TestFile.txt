@@ -1,1 +1,3 @@
 Test text file creation
+Adding new text
+And more new text
